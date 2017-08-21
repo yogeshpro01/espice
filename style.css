@@ -378,9 +378,9 @@ background: linear-gradient(to left, #155799, #159957);
 	padding: 20px;
 	padding-left: 50px;
 	padding-right: 50px;
-	border-top-left-radius: 0px;
+	border-top-left-radius: 90px;
 	border-top-right-radius: 90px;
-	border-bottom-left-radius: 90px;
+	border-bottom-left-radius: 0px;
 	border-bottom-right-radius: 90px;
 	background: #fff;
 	margin: 40px;
@@ -407,9 +407,9 @@ background: linear-gradient(to left, #155799, #159957);
 }
 .testimonials-card-right{
 	border-top-left-radius: 90px;
-	border-top-right-radius: 0px;
+	border-top-right-radius: 90px;
 	border-bottom-left-radius: 90px;
-	border-bottom-right-radius: 90px;
+	border-bottom-right-radius: 0px;
 
 }
 .testimonials-text-right{
